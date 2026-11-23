@@ -1,9 +1,9 @@
 ### 송원형
 
-Go 백엔드 엔지니어 · 금융·결제·외부 연동 · 게임과 툴을 만듭니다
+풀스택 개발자 · 금융·결제 시스템과 AI 자동화를 만듭니다
 
-증권사 리스크 관리(RMS), 트레이딩·부동산 금융 플랫폼, 국가별 결제 연동, 다국가 CRM 백엔드를 개발해 왔습니다.
-회사 밖에서는 Windows 도구, AI 에이전트, 게임을 만들고 그 과정을 유튜브에 올립니다.
+증권사 리스크 관리(RMS), 트레이딩·부동산 금융 플랫폼, 국가별 결제 연동, 다국가 CRM을 화면부터 서버까지 개발해 왔습니다.
+실서비스에 LLM을 붙여 서류 검증과 음성 인식 기능을 자동화했고, 회사 밖에서는 AI 에이전트 도구와 게임을 만들어 유튜브에 기록합니다.
 
 **사이트** [song-circle.github.io](https://song-circle.github.io) — 경력 · 프로젝트 · 외주 문의 · 채용 제안
 **유튜브** [버그로그](https://www.youtube.com/@buglog_kr) — 만들면서 생긴 버그를 찾고 고치는 개발 일지
@@ -22,4 +22,4 @@ Go 백엔드 엔지니어 · 금융·결제·외부 연동 · 게임과 툴을 �
 
 #### 주로 쓰는 기술
 
-Go · MySQL · Kafka · Redis · Node.js · TypeScript · PHP · Java · Python · C/C++ · C#/Unity · Jenkins · LLM API · Claude Code/MCP
+Go · Node.js · TypeScript · PHP · Java · Python · MySQL · Kafka · Redis · C/C++ · C#/Unity · Jenkins · LLM API · Claude Code/MCP
